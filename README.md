@@ -384,27 +384,14 @@ rt-aaidc-project1-template/
 
 ---
 
-## 🎓 Learning Objectives
-
+🎓 Learning Objectives
 By completing this project, you will:
+✅ Understand RAG systems, embeddings, and vector DBs
+✅ Build LLM-powered applications
+✅ Create production-ready AI assistants
 
-- ✅ Understand RAG architecture and data flow
-- ✅ Implement text chunking strategies
-- ✅ Work with vector databases and embeddings
-- ✅ Build LLM-powered applications with LangChain
-- ✅ Handle multiple API providers
-- ✅ Create production-ready AI applications
+🏁 Success Criteria
+✅ Documents are loaded, chunked, and embedded
+✅ Search returns relevant results
+✅ RAG system answers questions contextually
 
----
-
-## 🏁 Success Criteria
-
-Your implementation is complete when:
-
-1. ✅ You can load your own documents
-2. ✅ The system chunks and embeds documents
-3. ✅ Search returns relevant results
-4. ✅ The RAG system generates contextual answers
-5. ✅ You can ask questions and get meaningful responses
-
-**Good luck building your RAG system! 🚀**
